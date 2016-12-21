@@ -1,0 +1,7 @@
+reset
+as os os
+ld os
+as user_draw user_draw
+ld user_draw
+break set END
+continue
